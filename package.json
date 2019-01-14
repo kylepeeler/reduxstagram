@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wesbos/Learn-Redux.git"
+    "url": "https://github.com/kylepeeler/reduxstagram"
   },
   "author": "Kyle Peeler",
   "license": "MIT",
