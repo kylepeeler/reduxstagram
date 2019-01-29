@@ -1,6 +1,6 @@
 # Learn Redux
 
-A simple React + Redux implementation.
+A simple React + Redux implementation of a mock version of Instagram called Reduxstagram. Built this to learn Redux-foo!
 
 ## Running
 
